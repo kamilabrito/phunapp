@@ -1,0 +1,54 @@
+<!--
+  ~ Copyright (C) 2017 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~            http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    //card view dimens - portrait
+    <dimen name="row_card_event_height">200dp</dimen>
+    <dimen name="row_card_texts_margin_right">10dp</dimen>
+    <dimen name="row_card_texts_width">260dp</dimen>
+    <dimen name="row_card_layout_padding">15dp</dimen>
+    <dimen name="row_card_radius_elevation">5dp</dimen>
+    <dimen name="row_card_margin_bottom">5dp</dimen>
+    <dimen name="row_card_text_location_margin_bottom">10dp</dimen>
+    <dimen name="row_card_layout_padding_top">20dp</dimen>
+    <dimen name="card_title_text_size">25dp</dimen>
+
+
+    //card view dimens - land
+    <dimen name="row_card_texts_width_land">490dp</dimen>
+
+
+    //details view dimens
+    <dimen name="details_title_text_size">35dp</dimen>
+    <dimen name="details_scroll_padding_top_bottom">30dp</dimen>
+    <dimen name="details_scroll_padding_right_left">200dp</dimen>
+    <dimen name="details_scroll_padding">15dp</dimen>
+    <dimen name="details_appbar_height">205dp</dimen>
+    <dimen name="details_collapsbar_height">256dp</dimen>
+    <dimen name="details_collapsbar_expandedTitleMarginEnd">64dp</dimen>
+    <dimen name="details_collapsbar_expandedTitleMarginStart">48dp</dimen>
+    <dimen name="details_toolbar_margin_bottom">48dp</dimen>
+    <dimen name="details_timestamp_margin_bottom">5dp</dimen>
+    <dimen name="details_title_description_margin_bottom">10dp</dimen>
+
+    //text size
+    <dimen name="location_text_size">15dp</dimen>
+    <dimen name="description_text_size">15dp</dimen>
+
+
+
+</resources>
